@@ -1,17 +1,90 @@
-# campus_connect
+# CampusConnect 🎓
 
-A new Flutter project.
+CampusConnect is a Flutter-based mobile application designed to help college students discover and explore campus events in one place.
 
-## Getting Started
+## 📱 About the Project
 
-This project is a starting point for a Flutter application.
+College students often miss events because information is scattered across different platforms. CampusConnect aims to make campus event discovery easier through a simple and user-friendly interface.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 🏠 Home screen displaying upcoming campus events
+- 🔍 Search interface for discovering events
+- 📂 Event categories for easier browsing
+- 📅 Explore campus events
+- 📄 Event details screen
+- 📝 Event registration interface
+- 🧭 Bottom navigation for easy movement between sections
+- 💡 Smart Match feature for a more personalized event-discovery experience
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Note: Include only features that are implemented in the current version of the app.
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- Android Studio
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK (included with Flutter)
+- Android Studio or Visual Studio Code
+- An Android emulator or a physical Android device
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Pratiksha053/CampusConnect.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd CampusConnect
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## 📂 Project Structure
+
+```text
+campus_connect/
+├── lib/
+│   └── main.dart
+├── android/
+├── ios/
+├── web/
+├── test/
+├── pubspec.yaml
+└── README.md
+```
+
+## 🎯 Project Goal
+
+The goal of CampusConnect is to provide college students with a convenient way to discover campus activities and explore opportunities to participate in college events.
+
+## 👩‍💻 Developer
+
+Created as a Flutter app development project for the GDGoC AITR App Developer Recruitment Task.
+
+## 📄 License
+
+This project was developed for educational and recruitment purposes.
